@@ -12,7 +12,7 @@ Here we go,
 
 3. You should create an Image folder for the slides. 
 
-(If you use localhost then you have to use folder)
+(If you use localhost then you have to use image folder to display the slides)
 
 
 view full article here https://lawleet.wordpress.com/2018/09/17/slide-s-dynamic-using-html-css-and-javascript/
